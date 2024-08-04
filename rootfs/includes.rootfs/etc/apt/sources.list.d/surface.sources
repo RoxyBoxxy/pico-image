@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://pkg.surfacelinux.com/debian/
+Suites: release
+Architectures: amd64
+Components: main
+Signed-By: /usr/share/keyrings/linux_surface.gpg
